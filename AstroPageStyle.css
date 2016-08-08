@@ -36,6 +36,14 @@ hr
 section
 {
 	padding: 2px 20px;
+	width: 100%;
+}
+
+footer
+{
+	float: left;
+	width: 100%;
+	margin: 10px 0px;
 }
 
 /* research areas page stuff */
