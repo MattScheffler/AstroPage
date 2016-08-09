@@ -46,6 +46,12 @@ footer
 	margin: 10px 0px;
 }
 
+pre
+{
+	font-family: serif;
+	text-align: center;
+}
+
 /* research areas page stuff */
 div.research
 {
