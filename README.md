@@ -1,5 +1,5 @@
 # AstroPage
-Hosted here: <a href="http://astropage.neocities.org/" target="_blank">http://astropage.neocities.org/</a>
+Hosted here: [ astropage.neocities.org ](http://astropage.neocities.org/)
 
 A few html pages and a css for general astrophysics information and links.
 
