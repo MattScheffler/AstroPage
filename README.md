@@ -1,7 +1,7 @@
 # AstroPage
 Hosted here: [ astropage.neocities.org ](http://astropage.neocities.org/)
 
-A few html pages and a css for general astrophysics information and links.
+A website for general astrophysics information and resources.
 
 Meant more for a general audience that is interested in astrophysics but is unfamiliar with the field.
 
