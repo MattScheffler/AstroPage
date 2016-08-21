@@ -105,3 +105,13 @@ p.researchText
 	text-align: justify;
 	font-size: 14pt;
 }
+
+.teachingLink
+{
+	color: #ffffff;
+}
+
+.teachingBook
+{
+	color: #ff8c1a;
+}
